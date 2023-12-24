@@ -1,4 +1,4 @@
-module gin_demo09
+module my_bubble
 
 go 1.21.3
 
